@@ -1,8 +1,6 @@
 //Author: Yasir Ghunaim
-//Date: 11/27/2013
+//Date: 11/24/2013
 //Description: Simulation of the arduino analogWrite
-//Note: Make sure that Arduino is connected to the PC. Otherwise,
-//line 14 is not going to work.   
 import processing.serial.*;
 Serial arduinoPort;
 
