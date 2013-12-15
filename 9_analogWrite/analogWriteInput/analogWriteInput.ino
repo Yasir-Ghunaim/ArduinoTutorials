@@ -5,5 +5,5 @@ void setup(){
 
 void loop(){
  int value = analogRead(A0); // 0 - 1023
- analogWrite(11, value); // 0 - 255
+ analogWrite(11, value/4); // 0 - 255
 }
